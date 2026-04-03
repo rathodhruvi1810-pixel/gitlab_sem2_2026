@@ -1,1 +1,1 @@
-conflict branch change# git lab sem 2
+main branch different lineconflict branch change# git lab sem 2
